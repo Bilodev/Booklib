@@ -1,5 +1,5 @@
 # Booklib
-Questo progetto ha lo scopo di facilitare l'organizzazione della lettura fornendo la possibilità di salvare una lista di libri che l'utente ha letto, sta leggendo o ha intenzione di leggere in futuro; tutto questo con la possibilità di avere due modalità di visualizzazione una minimale e una completa con immagini.
+Questo progetto ha lo scopo di facilitare l'organizzazione della lettura fornendo la possibilità di salvare una lista di libri che l'utente ha letto, sta leggendo o ha intenzione di leggere in futuro; tutto questo con la possibilità di avere due modalità di visualizzazione una minimale e una completa con immagini. E' consentito agli utenti di effettuare ricerche su libri d'interesse sfruttando direttamente l'API offerta da google books per l'ottenimento di informazioni riguardanti questi.
 ## Panoramica Applicazione
 
 ### Minimal View
