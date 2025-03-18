@@ -80,4 +80,3 @@ L'utente per utilizzare l'applicazione esegue un file con estensione .bash che a
 ## Altre Informazioni
 
 ![Tree](./doc/tree.png)
-[Zip Del Progetto](https://drive.google.com/file/d/1M6sZ6NiGEbhuaiqp1JWpYVrFQJNUfYZW/view?usp=sharing)
