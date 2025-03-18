@@ -2,33 +2,7 @@
 Questo progetto ha lo scopo di facilitare l'organizzazione della lettura fornendo la possibilità di salvare una lista di libri che l'utente ha letto, sta leggendo o ha intenzione di leggere in futuro; tutto questo con la possibilità di avere due modalità di visualizzazione una minimale e una completa con immagini. E' consentito agli utenti di effettuare ricerche su libri d'interesse sfruttando direttamente l'API offerta da google books per l'ottenimento di informazioni riguardanti questi.
 ## Panoramica Applicazione
 
-### Minimal View
-
-#### Home Page 
-![Booklib Home](./doc/booklib_home_minimal.png)
-
-#### Ricerca (Home Page) 
-![Booklib Research](./doc/book_search_minimal.png)
-
-### Complete View
-
-#### Home Page 
-![Booklib Home](./doc/booklib_home_complete.png)
-
-#### Ricerca (Home Page)
-![Booklib Research](./doc/book_search_complete.png)
-
-### Visualizzazione di un libro
-![Book Focus](./doc/book_focus.png)
-
-### Riconoscimento Utente
-<center>
-
-![Signup](./doc/signup.png)
-<br>
-
-![Login](./doc/login.png)
-</center>
+[Discover the Project](https://drive.google.com/file/d/13WTNdhgxqg5ifvAyNoGYDPBoVonuAp7H/view)
 
 
 ## Tecnologie Utilizzate
